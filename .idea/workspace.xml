@@ -44,8 +44,8 @@
       <file leaf-file-name="BbtSolution2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/solution/src/BbtSolution2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+            <state relative-caret-position="532">
+              <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
               <folding>
                 <element signature="e#998#999#0" expanded="true" />
                 <element signature="e#1041#1042#0" expanded="true" />
@@ -439,7 +439,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="0" width="1454" height="1390" extended-state="1" />
+    <frame x="-10" y="0" width="1454" height="1390" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -505,8 +505,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/solution/src/BbtSolution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        <state relative-caret-position="532">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
           <folding>
             <element signature="e#998#999#0" expanded="true" />
             <element signature="e#1041#1042#0" expanded="true" />
