@@ -7,19 +7,7 @@ import java.util.Queue;
  * Created by Xiaojun YU on 2017-02-13.
  */
 public class BFSConnected {
-    /**
-     * Definition for Directed graph.
-     * class DirectedGraphNode {
-     *     int label;
-     *     ArrayList<DirectedGraphNode> neighbors;
-     *     DirectedGraphNode(int x) { label = x; neighbors = new ArrayList<DirectedGraphNode>(); }
-     * };
-     */
-    class DirectedGraphNode {
-          int label;
-          ArrayList<DirectedGraphNode> neighbors;
-          DirectedGraphNode(int x) { label = x; neighbors = new ArrayList<DirectedGraphNode>(); }
-      };
+    ;
     /**
      * @param graph: A list of Directed graph node
      * @param s: the starting Directed graph node
