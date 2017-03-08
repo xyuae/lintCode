@@ -2,7 +2,7 @@
 
 /**
  * Created by Xiaojun YU on 2017-02-13.
- */
+
 public class SolutionGitBinary {
     /**
      * public class SVNRepo {
@@ -15,7 +15,7 @@ public class SolutionGitBinary {
     /**
      * @param n: An integers.
      * @return: An integer which is the first bad version.
-     */
+
     public int findFirstBadVersion(int n) {
         if (n == 0) return -1;
 
@@ -37,3 +37,4 @@ public class SolutionGitBinary {
 
     }
 }
+*/

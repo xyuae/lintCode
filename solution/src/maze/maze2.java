@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * Created by Xiaojun YU on 2017-03-01.
- */
+
 public class maze2 {
 
     private static final int[] DIRECTIONS = {0, 1, 0 , -1 , 0};
@@ -38,3 +38,4 @@ public class maze2 {
         return maze[row][col] != 1;
     }
 }
+**/

@@ -2,18 +2,18 @@
 
 /**
  * Created by Xiaojun YU on 2017-02-13.
- */
+
 public class LinkedList327 {
     /**
      *@param A : an integer sorted array
      *@param target :  an integer to be inserted
      *return : a list of length 2, [index1, index2]
-     */
+
     public int[] searchRange(int[] A, int target) {
         /**
          * @param node: the node in the list should be deleted
          * @return: nothing
-         */
+
         public void deleteNode(ListNode node) {
             // write your code here
             if (node.next == null) {
@@ -35,3 +35,4 @@ public class LinkedList327 {
         else System.out.println("fail");
     }
 }
+*/
